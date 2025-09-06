@@ -4,8 +4,6 @@
     margin: 40px;
     padding: 20px;
     background-color: blue;
-    
-    /* Responsive adjustments */
 }
  .input-section {
 margin: 10px;
@@ -17,6 +15,5 @@ border:pink;
         margin: 10px;
         padding: 10px;
     }
-    
-    /* Further mobile-specific adjustments */
+
 }
